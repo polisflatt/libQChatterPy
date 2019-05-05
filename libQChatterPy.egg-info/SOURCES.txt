@@ -1,0 +1,12 @@
+README.md
+setup.py
+libQChatterPy.egg-info/PKG-INFO
+libQChatterPy.egg-info/SOURCES.txt
+libQChatterPy.egg-info/dependency_links.txt
+libQChatterPy.egg-info/top_level.txt
+libqchatterpy/QChatterChannel.py
+libqchatterpy/QChatterPyFunctions.py
+libqchatterpy/QChatterServer.py
+libqchatterpy/QChatterUser.py
+libqchatterpy/__init__.py
+libqchatterpy/constants.py

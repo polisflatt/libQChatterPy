@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: libQChatterPy
+Version: 0.5
+Summary: A Python library for interfacing with the QChatterServer service.
+Home-page: https://github.com/polisflatt/libQChatterPy
+Author: Polis Flatt
+Author-email: polisflatt@gmail.com
+License: GPL v3
+Description: ## libQChatterPy
+        ## Go to my Github, not here. 
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
